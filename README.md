@@ -82,8 +82,3 @@ The keyboard is rendered as a Canvas illustration with 6 rows:
 - **Tkinter** — built-in GUI toolkit (Canvas for key rendering)
 - **pynput** — global keyboard event listener
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
